@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="digit_background_color">#f4f4f4</color>
+    <color name="normal_text_color">#333333</color>
+    <color name="white">#ffffff</color>
+    <dimen name="edit_text_top">16dp</dimen>
+    <dimen name="inner_dialog_width">260dp</dimen>
+    <string name="app_name">QuickDialog</string>
+</resources>

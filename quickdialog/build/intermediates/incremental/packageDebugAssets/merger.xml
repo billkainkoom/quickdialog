@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/billkainkoom/StudioProjects/Libs/quickdialog/src/main/assets"/><source path="/Users/billkainkoom/StudioProjects/Libs/quickdialog/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/billkainkoom/StudioProjects/Libs/quickdialog/src/debug/assets"/></dataSet></merger>
