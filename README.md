@@ -1,11 +1,11 @@
-# Quick Dialog
+# Quick Dialogs for Android devlopment(Kotlin)
 
-Quick dialog simply gives you multiple consistent variants of dialogs you need in your  Android App.
+Quick dialog simply gives you multiple consistent variants of dialogs you need in your Android App.
 
-  - Message Dialog
-  - Progress Dialog
-  - Alert Dialog
-  - Input Dialog
+  1. Message Dialog
+  2. Progress Dialog
+  3. Alert Dialog
+  4. Input Dialog
   
 
 ### Message Dialog
